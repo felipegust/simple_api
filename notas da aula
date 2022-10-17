@@ -1,0 +1,17 @@
+
+Notas da aula:
+
+1- construir o assistente virtual em:
+    https://cloud.ibm.com/
+    referência: https://developer.ibm.com/tutorials/create-your-first-assistant-powered-chatbot/
+
+2- Construir um backend 
+    referência: https://github.com/felipegust/simple_api/tree/main 
+
+3- "Publicar" esse backend com o ngrok
+    https://ngrok.com/
+
+4- Criar uma documentação com o https://inspector.swagger.io/builder e com o https://app.swaggerhub.com/home
+
+5- Importar essa definição de API no Watson Assistant Integrations
+
